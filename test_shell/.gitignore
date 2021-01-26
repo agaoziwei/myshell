@@ -14,9 +14,4 @@ gen
 .idea/modules.xml
 .idea/vcs.xml
 out/
-src/main/java/movies/Executors_1.java
-src/main/java/movies/Executors_Test.java
-src/main/java/movies/MapTest.java
-src/main/java/movies/Person.java
-src/main/java/movies/TestFunction.java
 test_shell.iml
