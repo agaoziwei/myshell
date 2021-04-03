@@ -11,4 +11,10 @@ public class Test12{
         System.out.println("hello word");
     }
 
+    //高子伟测试cherry-pick
+    public  void cherry-pick(){
+        System.out.println("cherry-pick");
+
+    }
+
 }
