@@ -12,9 +12,11 @@ public class Test12{
     }
 
     //高子伟测试cherry-pick
-    public  void cherry-pick(){
+    public  void cherry-pick() {
         System.out.println("cherry-pick");
-
     }
+        //    高子伟测试add3
+        public  void add3(){
+            System.out.println("cherry-pick");
 
 }
