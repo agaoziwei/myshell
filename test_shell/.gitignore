@@ -1,0 +1,43 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+out/production/test_shell/Executors_1$1$1.class
+out/production/test_shell/Executors_1$1.class
+out/production/test_shell/Executors_1$2$1.class
+out/production/test_shell/Executors_1$2.class
+out/production/test_shell/Executors_Test$1.class
+out/production/test_shell/Executors_Test.class
+out/production/test_shell/MapTest.class
+out/production/test_shell/Person.class
+out/production/test_shell/TestFunction$1.class
+"src/main/java/git_test/\350\204\232\346\234\254.sql"
