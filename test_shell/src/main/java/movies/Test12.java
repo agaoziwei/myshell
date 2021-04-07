@@ -15,6 +15,9 @@ public class Test12{
     public  void cherry-pick(){
         System.out.println("cherry-pick");
 
+        //高子松测试cherry-pick
+        public  void cherry-pick(){
+            System.out.println("cherry-pick");
     }
 
 }
